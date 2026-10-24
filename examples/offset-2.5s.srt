@@ -1,0 +1,15 @@
+1
+00:00:03,500 --> 00:00:06,500
+<i>Previously</i> on the show...
+
+2
+00:00:08,000 --> 00:00:11,250
+We left our hero <b>staring</b> at the timeline.
+
+3
+00:00:13,750 --> 00:00:17,000
+Every line arrives <font color="red">2.5 seconds</font> late.
+
+4
+00:00:19,000 --> 00:00:22,500
+Shift me back and I will land on time.
